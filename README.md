@@ -1,7 +1,8 @@
 # mulACS
  --- A dormitory Access Control System (ACS) with multiple authentication methods
 
-### Video [![IMAGE ALT TEXT](http://img.youtube.com/vi/oCX-VuLmbKk/0.jpg)](http://www.youtube.com/watch?v=oCX-VuLmbKk)
+### Video 1 --- Desk
+[![mulACS-demo-desk-en](http://img.youtube.com/vi/oCX-VuLmbKk/1.jpg)](http://www.youtube.com/watch?v=oCX-VuLmbKk)
 
 ### Video 2 --- Field Test
 
