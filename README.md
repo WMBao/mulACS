@@ -51,9 +51,10 @@ Lead the development of the whole system.
 
 ## Details(selected)
 
-The Android APP involved in this project is developed by APP Inventor 2 [http://ai2.appinventor.mit.edu/](http://ai2.appinventor.mit.edu/ "APP Inventor 2").
+* The Android APP involved in this project is developed by APP Inventor 2 [http://ai2.appinventor.mit.edu/](http://ai2.appinventor.mit.edu/ "APP Inventor 2").
 
+* The following figure illustrates the connections among Arduino system modules
 
 ![Missing image](https://github.com/WMBao/mulACS/blob/master/website/images/image024.jpg)
 
-Figure 1 illustrates the connections among Arduino system modules
+
