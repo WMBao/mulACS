@@ -42,6 +42,7 @@ The microcontroller will check the connected devices and response to the "OPEN" 
 
 The link above points to the report webpage (in Chinese) with implementation details. 
 
+(Possibly a device may need some time loading the fonts for the first time.)
 
 ## Contribution
 Focus on Android Bluetooth implementation, RFID&LCD module test, code for Arduino (microcontroller), mechanical structure development, demo video and report webpage.
