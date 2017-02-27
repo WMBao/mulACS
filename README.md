@@ -7,6 +7,8 @@
 
 ### Video 2 --- Field Test
 
+[![mulACS-demo-dorm-en](http://img.youtube.com/vi/ujRK6u0gNnc/0.jpg)](http://www.youtube.com/watch?v=ujRK6u0gNnc)
+
 
 ## Introduction
 **mulACS** is a dormitory Access Control System (ACS) that supports two authentication methods --- ***Student Card*** & ***Android APP***.
@@ -48,5 +50,8 @@ Lead the development of the whole system.
 
 
 ## Details(selected)
+
+The Android APP involved in this project is developed by APP Inventor 2 [http://ai2.appinventor.mit.edu/](http://ai2.appinventor.mit.edu/ "APP Inventor 2").
+
 
 [Figure 1 illustrates the connections among Arduino system modules](/path/to/img.jpg "The Connections among Arduino System Modules")
