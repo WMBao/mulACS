@@ -44,7 +44,7 @@ The link above points to the report webpage (in Chinese) with implementation det
 
 
 ## Contribution
-Focus on Android Bluetooth implementation, RFID&LCD module test, code for Arduino (microcontroller), mechanical structure development, Demo video and report webpage.
+Focus on Android Bluetooth implementation, RFID&LCD module test, code for Arduino (microcontroller), mechanical structure development, demo video and report webpage.
 
 Lead the development of the whole system.
 
@@ -55,6 +55,6 @@ Lead the development of the whole system.
 
 * The following figure illustrates the connections among Arduino system modules
 
-![Missing image](https://github.com/WMBao/mulACS/blob/master/website/images/image024.jpg)
+![Missing Image](https://github.com/WMBao/mulACS/blob/master/website/images/image024.jpg)
 
 
