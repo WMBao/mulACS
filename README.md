@@ -49,6 +49,7 @@ Focus on Android Bluetooth implementation, RFID&LCD module test, code for Arduin
 
 Lead the development of the whole system.
 
+Collaborate with Bo Pang, Jing Luo and Di Lin.
 
 ## Details(selected)
 
